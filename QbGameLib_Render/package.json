@@ -1,0 +1,11 @@
+﻿{
+  "name": "ru.qb.gamelib.render",
+  "displayName": "QbGameLib_Render",
+  "description": "Вспомогательные классы и шейдеры для отрисовки",
+  "author": { "name": "Жульков Николай","email": "qbNikko@yandex.ru"},
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

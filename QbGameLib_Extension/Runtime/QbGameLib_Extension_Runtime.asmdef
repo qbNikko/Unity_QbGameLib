@@ -1,0 +1,14 @@
+{
+    "name": "QbGameLib.Extension.Runtime",
+    "rootNamespace": "QbGameLib.Extension",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

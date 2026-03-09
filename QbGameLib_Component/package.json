@@ -1,0 +1,11 @@
+﻿{
+  "name": "ru.qb.gamelib.component",
+  "displayName": "QbGameLib_Component",
+  "description": "Различные универсальные компоненты",
+  "author": { "name": "Жульков Николай","email": "qbNikko@yandex.ru"},
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

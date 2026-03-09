@@ -1,0 +1,11 @@
+﻿{
+  "name": "ru.qb.gamelib.fsm",
+  "displayName": "QbGameLib_FSM",
+  "description": "Реализация машины состояний",
+  "author": { "name": "Жульков Николай","email": "qbNikko@yandex.ru"},
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
