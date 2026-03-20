@@ -7,9 +7,6 @@ namespace QbGameLib.Cms
     {
         private static SaveManager<T> _instance;
         
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-        public static void Reset()=> _instance = null;
-        
         private static SaveManager<T> Instance
         {
             get
@@ -28,8 +25,7 @@ namespace QbGameLib.Cms
         public static void Save(T data) => Instance.Save_(data);
 
         public static void Load(T data)=> Instance.Load_(data);
-
-
+        
         
         
         

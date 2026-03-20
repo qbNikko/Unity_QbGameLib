@@ -1,7 +1,13 @@
 {
     "name": "QbGameLib.Cms.Runtime",
     "rootNamespace": "QbGameLib.Cms",
-    "references": [],
+    "references": [
+        "GUID:54a14a2b7fde49c38d156274f88abc60",
+        "GUID:207bcb57579a9df488d6e5ffb8f1c5ec",
+        "GUID:49b49c76ee64f6b41bf28ef951cb0e50",
+        "GUID:35f5c178dc3d5b649a8ad66a6d7c63bd",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
